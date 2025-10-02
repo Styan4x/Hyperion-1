@@ -1,0 +1,1 @@
+Hyperion 1 is the first iteration of a system I designed to help organize my life. While not exactly the first iteration, it is the first time I'm putting it on GitHub since the need to do so has arisen. 
